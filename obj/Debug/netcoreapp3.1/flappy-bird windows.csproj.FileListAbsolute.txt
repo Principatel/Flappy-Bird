@@ -1,0 +1,16 @@
+D:\myproject\flappy-bird windows\bin\Debug\netcoreapp3.1\flappy-bird windows.exe
+D:\myproject\flappy-bird windows\bin\Debug\netcoreapp3.1\flappy-bird windows.deps.json
+D:\myproject\flappy-bird windows\bin\Debug\netcoreapp3.1\flappy-bird windows.runtimeconfig.json
+D:\myproject\flappy-bird windows\bin\Debug\netcoreapp3.1\flappy-bird windows.runtimeconfig.dev.json
+D:\myproject\flappy-bird windows\bin\Debug\netcoreapp3.1\flappy-bird windows.dll
+D:\myproject\flappy-bird windows\bin\Debug\netcoreapp3.1\flappy-bird windows.pdb
+D:\myproject\flappy-bird windows\obj\Debug\netcoreapp3.1\flappy-bird windows.csproj.AssemblyReference.cache
+D:\myproject\flappy-bird windows\obj\Debug\netcoreapp3.1\flappy_bird_windows.Form1.resources
+D:\myproject\flappy-bird windows\obj\Debug\netcoreapp3.1\flappy_bird_windows.Properties.Resources.resources
+D:\myproject\flappy-bird windows\obj\Debug\netcoreapp3.1\flappy-bird windows.csproj.GenerateResource.cache
+D:\myproject\flappy-bird windows\obj\Debug\netcoreapp3.1\flappy-bird windows.AssemblyInfoInputs.cache
+D:\myproject\flappy-bird windows\obj\Debug\netcoreapp3.1\flappy-bird windows.AssemblyInfo.cs
+D:\myproject\flappy-bird windows\obj\Debug\netcoreapp3.1\flappy-bird windows.csproj.CoreCompileInputs.cache
+D:\myproject\flappy-bird windows\obj\Debug\netcoreapp3.1\flappy-bird windows.dll
+D:\myproject\flappy-bird windows\obj\Debug\netcoreapp3.1\flappy-bird windows.pdb
+D:\myproject\flappy-bird windows\obj\Debug\netcoreapp3.1\flappy-bird windows.genruntimeconfig.cache
