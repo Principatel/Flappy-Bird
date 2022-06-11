@@ -52,7 +52,7 @@ namespace flappy_bird_windows
             //speed increase after some score
             if(score > 5)
             {
-                pipeSpeed = 15;
+                pipeSpeed = 10;
             }
         }
 

@@ -87,7 +87,7 @@ namespace flappy_bird_windows
             this.Scoretext.AutoSize = true;
             this.Scoretext.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
             this.Scoretext.Font = new System.Drawing.Font("Modern No. 20", 36F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.Scoretext.Location = new System.Drawing.Point(157, 573);
+            this.Scoretext.Location = new System.Drawing.Point(12, 574);
             this.Scoretext.Name = "Scoretext";
             this.Scoretext.Size = new System.Drawing.Size(192, 50);
             this.Scoretext.TabIndex = 4;
