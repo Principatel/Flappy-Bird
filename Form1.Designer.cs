@@ -112,7 +112,7 @@ namespace flappy_bird_windows
             this.Controls.Add(this.ground);
             this.Controls.Add(this.pipebottom);
             this.Name = "Form1";
-            this.Text = "Flappy Bird Game";
+            this.Text = " ";
             this.KeyDown += new System.Windows.Forms.KeyEventHandler(this.gamekeyisdown);
             this.KeyUp += new System.Windows.Forms.KeyEventHandler(this.gamekeyisup);
             ((System.ComponentModel.ISupportInitialize)(this.FlappyBird)).EndInit();

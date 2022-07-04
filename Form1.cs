@@ -60,7 +60,7 @@ namespace flappy_bird_windows
         {
             if(e.KeyCode == Keys.Space)
             {
-                gravity = -5;
+                gravity = -2;
             }
         }
 
@@ -68,7 +68,7 @@ namespace flappy_bird_windows
         {
             if (e.KeyCode == Keys.Space)
             {
-                gravity = 5;
+                gravity = 2;
             }
         }
 
